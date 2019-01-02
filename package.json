@@ -1,0 +1,22 @@
+{
+  "name": "author-loader",
+  "version": "1.0.0",
+  "description": "pratice to write a webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loader"
+  ],
+  "author": "JE-lee",
+  "license": "MIT",
+  "devDependencies": {
+    "memory-fs": "^0.4.1",
+    "mocha": "^5.2.0",
+    "webpack": "^4.28.3"
+  },
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
